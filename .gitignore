@@ -62,3 +62,47 @@ fastlane/screenshots/**/*.png
 fastlane/test_output
 
 *.rcproject/
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/2.exr
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/Bass Drum Impact Sound Effect \[Free\].mp3
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/Cloud 1.usda
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/Cloud.usda
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/DefinitiveSborrSphere.usdc
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/DefinitiveSborrSphere_1.usda
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/FirstScene 1.usda
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/FirstScene.usda
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/Glass breaking sound effect (DOWNLOAD, ORIGINAL).mp3
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/GojoDomain.usda
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/GojoSkySphere.usdz
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/GojoVoiceLine.mp3
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/i278jvdyli471.png-2.png
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/Immersive.usda
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/Ink_drops-1.png
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/Ink_drops-2.png
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/InkDropSound1.mp3
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/InkDropSound2.mp3
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/Materials/GridMaterial.usda
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/Paint Splatter Sound Effect.mp3
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/ParticleEmitter.usda
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/ParticleEmitterPresetTextures/flare 1.exr
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/ParticleEmitterPresetTextures/flare 2.exr
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/ParticleEmitterPresetTextures/flare.exr
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/ParticleEmitterPresetTextures/rain.png
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/ParticleEmitterPresetTextures/snow.png
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/particleTunnel.usda
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/PIPOPOPI 1.usdz
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/PIPOPOPI 2.usdz
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/sborg.png
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/Scene.usda
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/SkySphere.usdz
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/SkySphereSFX.mp3
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/starmap_2020_16k 1.exr
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/starmap_2020_16k.exr
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/SukunaDomain.usda
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/textures/color_121212 1.hdr
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/textures/color_121212.hdr
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/textures/Untitled_Artwork 10.png
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/TransitionSphere.usda
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/TransitionSphere.usdz
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/Untitled_Artwork 10.png
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/void.usdc
+Packages/RealityKitContent/Sources/RealityKitContent/RealityKitContent.rkassets/VoidDomScene.usda
