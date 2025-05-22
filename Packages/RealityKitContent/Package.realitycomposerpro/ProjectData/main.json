@@ -1,0 +1,23 @@
+{
+  "pathsToIds" : {
+    "\/RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/GridMaterial.usda" : "CB766F92-EE55-4A63-9401-E7B8C009764D",
+    "\/RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Immersive.usda" : "65F6F990-A780-4474-B78B-572E0E4E273D",
+    "\/RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Scene.usda" : "0A9B4653-B11E-4D6A-850E-C6FCB621626C",
+    "\/RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Untitled Scene.usda" : "D560BB77-AAF3-4BDE-B7C4-989332A4688B",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/DefinitiveSborrSphere.usdc" : "74748D05-4666-4F4F-B7B0-1E8E2D3858FB",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/DefinitiveSborrSphere_1.usda" : "3EAB3854-9582-4D61-81A9-84234140BB4C",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/FirstScene 1.usda" : "33016E48-11D1-44B4-920F-3528DD3767B6",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/FirstScene.usda" : "137B6280-1028-4587-9939-25B98F2264F8",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/GojoDomain.usda" : "BCE1627E-89D5-4ECF-9695-2C6A4BDBE542",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/GridMaterial.usda" : "66168B71-AB05-424E-8B6C-D33D6E61B08F",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Immersive 1.usda" : "A9FF1D7B-DFF0-4133-9EF3-DE43DA7DA1AE",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Immersive.usda" : "AF09ED6F-1707-48FD-8720-65B998362C09",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/PE4AstralWilds.usda" : "B92DB2E0-2C4F-488B-95F3-C0B3E71AEA78",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/ParticleEmitter.usda" : "442D48C3-6781-4D46-B8AA-44DF00B060BD",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/ParticleEmitterDomain.usda" : "2112D060-76AF-4046-A64A-A4BEF4F98223",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/Scene.usda" : "D66134B1-3681-4A8E-AFE5-29F257229F3B",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/SukunaDomain.usda" : "8D1EFD40-5DAA-4482-B5CE-14D79D3D7174",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/TransitionSphere.usda" : "07C5AFAB-9FAD-495A-BC21-AE26E03DC9B6",
+    "RealityKitContent\/Sources\/RealityKitContent\/RealityKitContent.rkassets\/VoidDomScene.usda" : "9115FBAE-6C94-49EC-BEAC-37BF25F0B310"
+  }
+}
