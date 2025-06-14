@@ -4,7 +4,7 @@
 
 ## 🔮 Features
 
-- 🎮 **Gesture Recognition**: Detect and identify mudras using Apple Vision Pro hand tracking features.
+- 🎮 **Gesture Recognition**: Detect and identify mudras using Apple Vision Pro hand tracking features (3D maths is involved).
 - 🌀 **Domain Expansion Visualization**: Beautiful effects and sounds to simulate a domain being born.
 
 ## 📸 Demo
